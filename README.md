@@ -160,13 +160,14 @@ The analysis is descriptive and focuses on cross-country associations. The obser
 
 ## Repository Structure
 
-```text
-healthcare-analytics-dashboard/
-│
+Healthcare-analytics-dashboard/
 ├── README.md
-├── dashboard_preview.png
-└── healthcare_analytics_data.xlsx
-```
+├── data/
+│   └── 02_Healthcare_analytics_data.xlsx
+├── docs/
+│   └── 03_Analysis_discussion.md
+└── images/
+    └── 01_dashboard_preview.png
 
 ## Skills Demonstrated
 
