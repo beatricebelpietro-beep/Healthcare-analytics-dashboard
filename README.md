@@ -2,7 +2,7 @@
 Power BI dashboard analyzing healthcare expenditure, GDP per capita and life expectancy across 36 countries
 # Healthcare Analytics Dashboard
 
-![Dashboard Preview](01_dashboard_preview.png)
+![Dashboard Preview](images/01_dashboard_preview.png)
 
 ## Project Overview
 
@@ -148,7 +148,8 @@ Healthcare performance depends not only on how much a country spends, but also o
 
 The analysis remains descriptive and does not establish causality. Future research incorporating variables such as education, inequality, obesity, smoking, demographic structure, healthcare access, and institutional quality could help explain the remaining cross-country differences.
 
-For a more detailed discussion of the results, see the full analysis report.
+## Markdown 
+[Read the full analysis discussion](docs/03_Analysis_discussion.md)
 
 ## Methodological Note
 
