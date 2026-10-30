@@ -148,11 +148,14 @@ Healthcare performance depends not only on how much a country spends, but also o
 
 The analysis remains descriptive and does not establish causality. Future research incorporating variables such as education, inequality, obesity, smoking, demographic structure, healthcare access, and institutional quality could help explain the remaining cross-country differences.
 
+For a more detailed discussion of the results, see the full analysis report.
+
 ## Methodological Note
 
 Healthcare expenditure is measured as a percentage of GDP, while GDP per capita is measured in current US dollars.
 
 The analysis is descriptive and focuses on cross-country associations. The observed relationships should not be interpreted as causal effects.
+
 
 ## Repository Structure
 
