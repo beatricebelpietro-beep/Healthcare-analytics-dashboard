@@ -160,14 +160,30 @@ The analysis is descriptive and focuses on cross-country associations. The obser
 
 ## Repository Structure
 
+ ## Repository Structure
+
+```text
 Healthcare-analytics-dashboard/
+│
 ├── README.md
+├── .gitattributes
+│
 ├── data/
 │   └── Healthcare_analytics_data.xlsx
+│
 ├── docs/
 │   └── 03_Analysis_discussion.md
+│
 └── images/
     └── dashboard_preview.png
+```
+
+### Folder Contents
+
+- `data/` – cleaned and structured analytical dataset used for the Power BI dashboard
+- `docs/` – extended analysis and discussion of the main findings
+- `images/` – dashboard preview and visual assets
+- `README.md` – project overview, methodology, key findings, and repository documentation
 
 ## Skills Demonstrated
 
