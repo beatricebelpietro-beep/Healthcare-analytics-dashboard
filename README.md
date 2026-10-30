@@ -6,7 +6,7 @@ Power BI dashboard analyzing healthcare expenditure, GDP per capita and life exp
 
 ## Project Overview
 
-This project analyzes the relationship between healthcare expenditure, national wealth, and life expectancy** across 36 countries using data from the OECD and the World Bank.
+This project analyzes the relationship between healthcare expenditure, national wealth, and life expectancy across 36 countries using data from the OECD and the World Bank.
 
 The goal was to build an interactive Power BI dashboard that allows users to compare countries and identify patterns in healthcare spending, GDP per capita, and health outcomes.
 
