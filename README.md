@@ -2,7 +2,7 @@
 Power BI dashboard analyzing healthcare expenditure, GDP per capita and life expectancy across 36 countries
 # Healthcare Analytics Dashboard
 
-![Dashboard Preview](images/01_dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.png)
 
 ## Project Overview
 
